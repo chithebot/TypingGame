@@ -1,0 +1,12 @@
+##BINARIES##
+bin
+
+##LIBRARIES##
+Dependencies
+
+##VISUAL_STUDIO_GENERATED_FILES##
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vs/
